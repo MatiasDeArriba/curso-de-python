@@ -9,7 +9,7 @@ Este repositorio contiene mis avances y proyectos iniciales aprendiendo Python.
 
 ## 🛠️ Tecnologías
 
-- Python 3.x
+- Python 3.12.4
 - Git para control de versiones
 
 ---
