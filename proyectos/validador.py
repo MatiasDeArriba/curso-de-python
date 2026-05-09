@@ -1,4 +1,4 @@
-# --- SIMULADOR DE VALIDACIÓN DE QA ---
+
 print("=== Sistema de Registro de Usuario ===")
 # Entrada de datos
 usuario = input("Ingrese nombre de usuario:")
