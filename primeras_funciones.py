@@ -1,3 +1,7 @@
+#COMO REUTILIZAR CODIGO CON FUNCIONES
+
+
+
 def mensaje(): # Definición de la función llamada "mensaje"
     print("¡Hola, mundo!") # CUERPO DE LA FUNCION: Código que se ejecutará cuando se llame a la función
     print("¡Bienvenido a la programación en Python!") # CUERPO DE LA FUNCION: Código que se ejecutará cuando se llame a la función
